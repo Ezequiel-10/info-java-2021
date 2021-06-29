@@ -1,0 +1,5 @@
+Carlos,Silva,18/08/1996,40000
+Maximiliano,Quinonez,28/08/1996,35000
+Guillermo,Gonzalez,12/06/1998,43258
+Evelyn,Escobar,28/08/1995,54826
+Facundo,Quiroz,10/10/1995,60520
